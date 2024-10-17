@@ -12,7 +12,7 @@
 #define EMPTY ' '
 #define MONSTER '<'
 
-//Global variables in gaem
+//Global variables in game
 int res = 0;
 int score = 0;
 int pacman_x, pacman_y;
